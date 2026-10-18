@@ -65,6 +65,7 @@ You can also find a list of all available service widgets in the sidebar navigat
 - [HomeBox](homebox.md)
 - [Homebridge](homebridge.md)
 - [iFrame](iframe.md)
+- [IMAP](imap.md)
 - [Immich](immich.md)
 - [Jackett](jackett.md)
 - [JDownloader](jdownloader.md)

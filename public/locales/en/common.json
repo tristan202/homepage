@@ -742,6 +742,10 @@
         "cpu_usage": "CPU",
         "memory_usage": "Memory"
     },
+    "imap": {
+        "unread": "Unread",
+        "total": "Total"
+    },
     "immich": {
         "users": "Users",
         "photos": "Photos",

@@ -64,6 +64,7 @@ const components = {
   homebox: dynamic(() => import("./homebox/component")),
   homebridge: dynamic(() => import("./homebridge/component")),
   healthchecks: dynamic(() => import("./healthchecks/component")),
+  imap: dynamic(() => import("./imap/component")),
   immich: dynamic(() => import("./immich/component")),
   jackett: dynamic(() => import("./jackett/component")),
   jdownloader: dynamic(() => import("./jdownloader/component")),

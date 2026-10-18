@@ -55,6 +55,7 @@ import healthchecks from "./healthchecks/widget";
 import homeassistant from "./homeassistant/widget";
 import homebox from "./homebox/widget";
 import homebridge from "./homebridge/widget";
+import imap from "./imap/widget";
 import immich from "./immich/widget";
 import jackett from "./jackett/widget";
 import jdownloader from "./jdownloader/widget";
@@ -221,6 +222,7 @@ const widgets = {
   homebridge,
   healthchecks,
   ical: calendar,
+  imap,
   immich,
   jackett,
   jdownloader,
